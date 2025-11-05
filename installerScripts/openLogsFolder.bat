@@ -1,0 +1,1 @@
+%SystemRoot%\explorer.exe "%programdata%\Awesome Web App\"
