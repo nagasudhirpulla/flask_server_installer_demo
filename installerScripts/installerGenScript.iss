@@ -29,7 +29,7 @@ OutputDir=Installer
 OutputBaseFilename={#MyAppName} Setup
 SolidCompression=yes
 WizardStyle=modern
-SetupIconFile=favicon.ico
+SetupIconFile="..\static\favicon.ico"
 
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
