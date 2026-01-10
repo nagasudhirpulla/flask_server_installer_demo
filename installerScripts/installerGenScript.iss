@@ -42,6 +42,7 @@ Source: "serviceRegister.bat"; DestDir: "{app}"; Flags: ignoreversion
 Source: "serviceDelete.bat"; DestDir: "{app}"; Flags: ignoreversion
 Source: "serviceRestart.bat"; DestDir: "{app}"; Flags: ignoreversion
 Source: "serviceStop.bat"; DestDir: "{app}"; Flags: ignoreversion
+Source: "openLogsFolder.bat"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 Source: "..\static\favicon.ico"; DestDir: "{app}"
 Source: "..\README.md"; DestDir: "{app}"; Flags: isreadme
